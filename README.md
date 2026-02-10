@@ -139,9 +139,5 @@ CA/
 
 ---
 
-## Licencja
-
----
-
 **Ostatnia aktualizacja:** 7 lutego 2026  
 **nr indeksu: 135 398 hasło okoń**
