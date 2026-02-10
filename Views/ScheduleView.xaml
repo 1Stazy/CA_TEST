@@ -1,0 +1,410 @@
+<UserControl x:Class="CinemaSystem.Desktop.Views.ScheduleView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:vm="clr-namespace:CinemaSystem.Desktop.ViewModels"
+             xmlns:converters="clr-namespace:CinemaSystem.Desktop.Services.Converters"
+             mc:Ignorable="d" 
+             d:DesignHeight="600" d:DesignWidth="1100">
+
+    <UserControl.Resources>
+        <converters:IsFutureDateConverter x:Key="IsFutureDateConverter"/>
+
+        <Style TargetType="Button" x:Key="TabButtonStyle">
+            <Setter Property="Background" Value="#1E1E1E"/>
+            <Setter Property="BorderBrush" Value="#444"/>
+            <Setter Property="Foreground" Value="#888"/>
+            <Setter Property="FontSize" Value="16"/>
+            <Setter Property="FontWeight" Value="Bold"/>
+            <Setter Property="Width" Value="160"/> 
+            <Setter Property="Height" Value="45"/>
+            <Setter Property="Margin" Value="-25,0,0,0"/> 
+            
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Grid>
+                            <Path x:Name="TabShape" 
+                                  Data="M 0,100 L 20,20 Q 25,0 40,0 L 120,0 Q 135,0 140,20 L 160,100 Z"
+                                  Stretch="Fill"
+                                  Fill="{TemplateBinding Background}"
+                                  Stroke="{TemplateBinding BorderBrush}"
+                                  StrokeThickness="1.5"/>
+                            
+                            <ContentPresenter HorizontalAlignment="Center" 
+                                              VerticalAlignment="Center"
+                                              Margin="0,8,0,0"/>
+                        </Grid>
+                        
+                        <ControlTemplate.Triggers>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter Property="Foreground" Value="White"/>
+                                <Setter TargetName="TabShape" Property="Stroke" Value="#777"/>
+                            </Trigger>
+                        </ControlTemplate.Triggers>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+
+        <Style x:Key="CustomCalendarDayButtonStyle" TargetType="CalendarDayButton">
+            <Setter Property="Background" Value="Transparent"/>
+            <Setter Property="Foreground" Value="White"/>
+            <Setter Property="FontSize" Value="12"/>
+            <Setter Property="Margin" Value="0"/>
+            <Setter Property="Height" Value="30"/>
+            <Setter Property="Width" Value="30"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="CalendarDayButton">
+                        <Border x:Name="DayBorder" Background="{TemplateBinding Background}" CornerRadius="15">
+                            <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                        </Border>
+                        <ControlTemplate.Triggers>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter TargetName="DayBorder" Property="Background" Value="#444"/>
+                            </Trigger>
+                            <Trigger Property="IsSelected" Value="True">
+                                <Setter TargetName="DayBorder" Property="Background" Value="#FFD700"/>
+                                <Setter Property="Foreground" Value="Black"/>
+                                <Setter Property="FontWeight" Value="Bold"/>
+                            </Trigger>
+                            <Trigger Property="IsToday" Value="True">
+                                <Setter TargetName="DayBorder" Property="BorderBrush" Value="#FFD700"/>
+                                <Setter TargetName="DayBorder" Property="BorderThickness" Value="1"/>
+                            </Trigger>
+                            <Trigger Property="IsInactive" Value="True">
+                                <Setter Property="Foreground" Value="#555"/>
+                            </Trigger>
+                        </ControlTemplate.Triggers>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+
+        <Style x:Key="CalendarNavButtonStyle" TargetType="Button">
+            <Setter Property="Width" Value="25"/>
+            <Setter Property="Height" Value="25"/>
+            <Setter Property="Background" Value="#FFD700"/>
+            <Setter Property="Cursor" Value="Hand"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Border Background="{TemplateBinding Background}" CornerRadius="5">
+                            <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                        </Border>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+
+        <Style x:Key="CustomCalendarItemStyle" TargetType="{x:Type CalendarItem}">
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="{x:Type CalendarItem}">
+                        <ControlTemplate.Resources>
+                            <DataTemplate x:Key="{x:Static CalendarItem.DayTitleTemplateResourceKey}">
+                                <TextBlock Foreground="#888" FontWeight="Bold" FontSize="10" HorizontalAlignment="Center" Margin="0,5" Text="{Binding}"/>
+                            </DataTemplate>
+                        </ControlTemplate.Resources>
+                        <Grid x:Name="PART_Root">
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="Auto"/>
+                                <RowDefinition Height="*"/>
+                            </Grid.RowDefinitions>
+                            <Border Grid.Row="0" Background="Transparent" Margin="0,5">
+                                <Grid>
+                                    <Grid.ColumnDefinitions>
+                                        <ColumnDefinition Width="Auto"/>
+                                        <ColumnDefinition Width="*"/>
+                                        <ColumnDefinition Width="Auto"/>
+                                    </Grid.ColumnDefinitions>
+                                    <Button x:Name="PART_PreviousButton" Grid.Column="0" Style="{StaticResource CalendarNavButtonStyle}">
+                                        <Path Data="M 6,0 L 0,6 L 6,12" Stroke="Black" StrokeThickness="2" Margin="3,0,0,0"/>
+                                    </Button>
+                                    <Button x:Name="PART_HeaderButton" Grid.Column="1" Foreground="#FFD700" FontWeight="Bold" FontSize="14" HorizontalAlignment="Center" VerticalAlignment="Center" Background="Transparent" BorderThickness="0" IsHitTestVisible="False"/>
+                                    <Button x:Name="PART_NextButton" Grid.Column="2" Style="{StaticResource CalendarNavButtonStyle}">
+                                        <Path Data="M 0,0 L 6,6 L 0,12" Stroke="Black" StrokeThickness="2" Margin="0,0,3,0"/>
+                                    </Button>
+                                </Grid>
+                            </Border>
+                            <Grid Grid.Row="1">
+                                <Grid x:Name="PART_MonthView">
+                                    <Grid.RowDefinitions>
+                                        <RowDefinition Height="Auto"/> <RowDefinition Height="Auto"/> <RowDefinition Height="Auto"/> <RowDefinition Height="Auto"/> <RowDefinition Height="Auto"/> <RowDefinition Height="Auto"/> <RowDefinition Height="Auto"/>
+                                    </Grid.RowDefinitions>
+                                    <Grid.ColumnDefinitions>
+                                        <ColumnDefinition Width="Auto"/> <ColumnDefinition Width="Auto"/> <ColumnDefinition Width="Auto"/> <ColumnDefinition Width="Auto"/> <ColumnDefinition Width="Auto"/> <ColumnDefinition Width="Auto"/> <ColumnDefinition Width="Auto"/>
+                                    </Grid.ColumnDefinitions>
+                                </Grid>
+                                <Grid x:Name="PART_YearView" Visibility="Hidden">
+                                    <Grid.RowDefinitions>
+                                        <RowDefinition Height="Auto"/> <RowDefinition Height="Auto"/> <RowDefinition Height="Auto"/>
+                                    </Grid.RowDefinitions>
+                                    <Grid.ColumnDefinitions>
+                                        <ColumnDefinition Width="Auto"/> <ColumnDefinition Width="Auto"/> <ColumnDefinition Width="Auto"/> <ColumnDefinition Width="Auto"/>
+                                    </Grid.ColumnDefinitions>
+                                </Grid>
+                            </Grid>
+                        </Grid>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+
+        <Style x:Key="CustomCalendarStyle" TargetType="Calendar">
+            <Setter Property="Background" Value="#1F1E1E"/>
+            <Setter Property="BorderBrush" Value="#FFD700"/>
+            <Setter Property="BorderThickness" Value="1"/>
+            <Setter Property="Foreground" Value="White"/>
+            <Setter Property="CalendarDayButtonStyle" Value="{StaticResource CustomCalendarDayButtonStyle}"/>
+            <Setter Property="CalendarItemStyle" Value="{StaticResource CustomCalendarItemStyle}"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Calendar">
+                        <Border Background="{TemplateBinding Background}" BorderBrush="{TemplateBinding BorderBrush}" BorderThickness="{TemplateBinding BorderThickness}" CornerRadius="8" Padding="10">
+                            <StackPanel x:Name="PART_Root" HorizontalAlignment="Center">
+                                <CalendarItem x:Name="PART_CalendarItem" Style="{TemplateBinding CalendarItemStyle}"/>
+                            </StackPanel>
+                        </Border>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+
+        <Style x:Key="CinemaDatePickerStyle" TargetType="DatePicker">
+            <Setter Property="Foreground" Value="White"/>
+            <Setter Property="Background" Value="#333"/>
+            <Setter Property="BorderBrush" Value="#555"/>
+            <Setter Property="CalendarStyle" Value="{StaticResource CustomCalendarStyle}"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="DatePicker">
+                        <Border Background="{TemplateBinding Background}" BorderBrush="{TemplateBinding BorderBrush}" BorderThickness="1" CornerRadius="5" Padding="5">
+                            <Grid>
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="*"/>
+                                    <ColumnDefinition Width="30"/>
+                                </Grid.ColumnDefinitions>
+                                <DatePickerTextBox x:Name="PART_TextBox" Grid.Column="0" Foreground="White" Background="Transparent" SelectionBrush="#FFD700" VerticalAlignment="Center" Margin="5,0,0,0" BorderThickness="0" FontSize="14">
+                                    <DatePickerTextBox.Style>
+                                        <Style TargetType="DatePickerTextBox">
+                                            <Setter Property="Template">
+                                                <Setter.Value>
+                                                    <ControlTemplate TargetType="DatePickerTextBox">
+                                                        <ScrollViewer x:Name="PART_ContentHost"/>
+                                                    </ControlTemplate>
+                                                </Setter.Value>
+                                            </Setter>
+                                        </Style>
+                                    </DatePickerTextBox.Style>
+                                </DatePickerTextBox>
+                                <Button x:Name="PART_Button" Grid.Column="1" Background="Transparent" BorderThickness="0" Cursor="Hand">
+                                    <Button.Template>
+                                        <ControlTemplate TargetType="Button">
+                                            <Border Background="Transparent">
+                                                <Path Data="M19,4H18V2H16V4H8V2H6V4H5C3.89,4 3,4.9 3,6V20A2,2 0 0,0 5,22H19A2,2 0 0,0 21,20V6A2,2 0 0,0 19,4M19,20H5V10H19V20M19,8H5V6H19V8M9,14H7V12H9V14M13,14H11V12H13V14M17,14H15V12H17V14M9,18H7V16H9V18M13,18H11V16H13V18M17,18H15V16H17V18Z" Fill="#FFD700" Width="18" Height="18" Stretch="Uniform"/>
+                                            </Border>
+                                        </ControlTemplate>
+                                    </Button.Template>
+                                </Button>
+                                <Popup x:Name="PART_Popup" StaysOpen="False" AllowsTransparency="True" Placement="Bottom">
+                                    <Calendar x:Name="PART_Calendar" Style="{StaticResource CustomCalendarStyle}"/>
+                                </Popup>
+                            </Grid>
+                        </Border>
+                        <ControlTemplate.Triggers>
+                            <Trigger Property="IsDropDownOpen" Value="True">
+                                <Setter Property="BorderBrush" Value="#FFD700"/>
+                            </Trigger>
+                        </ControlTemplate.Triggers>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+    </UserControl.Resources>
+
+    <Grid Background="#121212">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <Border Grid.Row="0" Height="100" Background="#1E1E1E" Padding="20,0" BorderBrush="#333" BorderThickness="0,0,0,1">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="Auto"/> <ColumnDefinition Width="*"/>    <ColumnDefinition Width="Auto"/> </Grid.ColumnDefinitions>
+
+                <TextBlock Grid.Column="0" Text="HARMONOGRAM SEANSÓW" 
+                        Foreground="#FFD700" FontSize="24" FontWeight="Bold" 
+                        VerticalAlignment="Center"/>
+
+                <StackPanel Grid.Column="1" Orientation="Horizontal" 
+                            HorizontalAlignment="Center" VerticalAlignment="Bottom"
+                            Margin="25,0,0,0">
+                    
+                    <Button Content="DZISIAJ" Command="{Binding SetDateTodayCommand}" Panel.ZIndex="3">
+                        <Button.Style>
+                            <Style TargetType="Button" BasedOn="{StaticResource TabButtonStyle}">
+                                <Style.Triggers>
+                                    <DataTrigger Binding="{Binding ActiveTab}" Value="TODAY">
+                                        <Setter Property="Background" Value="#FFD700"/>
+                                        <Setter Property="BorderBrush" Value="#FFD700"/>
+                                        <Setter Property="Foreground" Value="Black"/> 
+                                        <Setter Property="Panel.ZIndex" Value="100"/> 
+                                    </DataTrigger>
+                                </Style.Triggers>
+                            </Style>
+                        </Button.Style>
+                    </Button>
+
+                    <Button Content="JUTRO" Command="{Binding SetDateTomorrowCommand}" Panel.ZIndex="2">
+                        <Button.Style>
+                            <Style TargetType="Button" BasedOn="{StaticResource TabButtonStyle}">
+                                <Style.Triggers>
+                                    <DataTrigger Binding="{Binding ActiveTab}" Value="TOMORROW">
+                                        <Setter Property="Background" Value="#FFD700"/>
+                                        <Setter Property="BorderBrush" Value="#FFD700"/>
+                                        <Setter Property="Foreground" Value="Black"/>
+                                        <Setter Property="Panel.ZIndex" Value="100"/>
+                                    </DataTrigger>
+                                </Style.Triggers>
+                            </Style>
+                        </Button.Style>
+                    </Button>
+
+                    <Button Content="POJUTRZE" Command="{Binding SetDateDayAfterTomorrowCommand}" Panel.ZIndex="1">
+                        <Button.Style>
+                            <Style TargetType="Button" BasedOn="{StaticResource TabButtonStyle}">
+                                <Style.Triggers>
+                                    <DataTrigger Binding="{Binding ActiveTab}" Value="DAT">
+                                        <Setter Property="Background" Value="#FFD700"/>
+                                        <Setter Property="BorderBrush" Value="#FFD700"/>
+                                        <Setter Property="Foreground" Value="Black"/>
+                                        <Setter Property="Panel.ZIndex" Value="100"/>
+                                    </DataTrigger>
+                                </Style.Triggers>
+                            </Style>
+                        </Button.Style>
+                    </Button>
+                </StackPanel>
+
+                <StackPanel Grid.Column="2" Orientation="Horizontal" VerticalAlignment="Center">
+                    <TextBlock Text="LUB WYBIERZ:" Foreground="Gray" VerticalAlignment="Center" Margin="0,0,15,0" FontSize="14" FontWeight="SemiBold"/>
+
+                    <DatePicker SelectedDate="{Binding SelectedDate}" 
+                                Width="140" Height="40"
+                                VerticalAlignment="Center" VerticalContentAlignment="Center"
+                                Style="{StaticResource CinemaDatePickerStyle}"/>
+
+                    <CheckBox Content="Pokaż minione" 
+                            IsChecked="{Binding ShowArchived}"
+                            Foreground="White" VerticalAlignment="Center" Margin="20,0,0,0">
+                        <CheckBox.Template>
+                            <ControlTemplate TargetType="CheckBox">
+                                <StackPanel Orientation="Horizontal" Cursor="Hand">
+                                    <Border Width="22" Height="22" CornerRadius="4" BorderBrush="#FFD700" BorderThickness="1" Background="Transparent">
+                                        <Path Data="M 3,11 L 9,17 L 19,5" Stroke="#FFD700" StrokeThickness="2.5" 
+                                            Visibility="{Binding IsChecked, RelativeSource={RelativeSource TemplatedParent}, Converter={StaticResource BooleanToVisibilityConverter}}"/>
+                                    </Border>
+                                    <ContentPresenter Margin="10,0,0,0" VerticalAlignment="Center" TextElement.FontSize="14"/>
+                                </StackPanel>
+                            </ControlTemplate>
+                        </CheckBox.Template>
+                    </CheckBox>
+                </StackPanel>
+            </Grid>
+        </Border>
+
+        <ScrollViewer Grid.Row="1" Padding="20">
+            <Grid>
+                <TextBlock Text="Ładowanie..." Foreground="White" 
+                           Visibility="{Binding IsLoading, Converter={StaticResource BooleanToVisibilityConverter}}"
+                           HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="20"/>
+
+                <StackPanel Visibility="{Binding IsEmpty, Converter={StaticResource BooleanToVisibilityConverter}}"
+                            HorizontalAlignment="Center" VerticalAlignment="Center" Opacity="0.5">
+                    <TextBlock Text="BRAK SEANSÓW" Foreground="Gray" FontSize="30" FontWeight="Bold" HorizontalAlignment="Center"/>
+                    <TextBlock Text="Na wybrany dzień nie zaplanowano żadnych filmów." Foreground="Gray" HorizontalAlignment="Center"/>
+                </StackPanel>
+
+                <ItemsControl ItemsSource="{Binding Screenings}">
+                    <ItemsControl.ItemTemplate>
+                        <DataTemplate>
+                            <Border Background="#1E1E1E" Margin="0,0,0,10" CornerRadius="8" BorderBrush="#333" BorderThickness="1" Padding="15">
+                                <Grid>
+                                    <Grid.ColumnDefinitions>
+                                        <ColumnDefinition Width="100"/>
+                                        <ColumnDefinition Width="*"/>
+                                        <ColumnDefinition Width="150"/>
+                                        <ColumnDefinition Width="150"/>
+                                    </Grid.ColumnDefinitions>
+
+                                    <Border Grid.Column="0" BorderBrush="#FFD700" BorderThickness="0,0,2,0" Margin="0,0,15,0">
+                                        <TextBlock Text="{Binding TimeString}" 
+                                                   Foreground="#FFD700" FontSize="24" FontWeight="Bold" 
+                                                   VerticalAlignment="Center"/>
+                                    </Border>
+
+                                    <StackPanel Grid.Column="1" VerticalAlignment="Center">
+                                        <TextBlock Text="{Binding Movie.Title}" Foreground="White" FontSize="18" FontWeight="SemiBold"/>
+                                        <TextBlock Text="{Binding Movie.Description}" Foreground="Gray" FontSize="12" 
+                                                   TextTrimming="CharacterEllipsis" MaxHeight="35" Margin="0,5,0,0"/>
+                                    </StackPanel>
+
+                                    <StackPanel Grid.Column="2" VerticalAlignment="Center" HorizontalAlignment="Center">
+                                        <TextBlock Text="SALA" Foreground="#555" FontSize="10" HorizontalAlignment="Center"/>
+                                        <TextBlock Text="{Binding Hall.Name}" Foreground="White" FontSize="16" FontWeight="Bold" HorizontalAlignment="Center"/>
+                                    </StackPanel>
+
+                                    <Button Grid.Column="3" 
+                                            Command="{Binding DataContext.BookTicketCommand, RelativeSource={RelativeSource AncestorType=UserControl}}"
+                                            CommandParameter="{Binding}"
+                                            FontWeight="Bold" BorderThickness="0" Height="40" Cursor="Hand">
+                                        <Button.Style>
+                                            <Style TargetType="Button">
+                                                <Setter Property="Content" Value="SPRZEDAJ"/>
+                                                <Setter Property="Background" Value="#E50914"/>
+                                                <Setter Property="Foreground" Value="White"/>
+                                                <Setter Property="IsEnabled" Value="True"/>
+                                                <Setter Property="Template">
+                                                    <Setter.Value>
+                                                        <ControlTemplate TargetType="Button">
+                                                            <Border Background="{TemplateBinding Background}" CornerRadius="5">
+                                                                <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                                                            </Border>
+                                                        </ControlTemplate>
+                                                    </Setter.Value>
+                                                </Setter>
+
+                                                <Style.Triggers>
+                                                    <DataTrigger Binding="{Binding Start, Converter={StaticResource IsFutureDateConverter}}" Value="False">
+                                                        <Setter Property="Content" Value="ZAKOŃCZONY"/>
+                                                        <Setter Property="Background" Value="#333333"/>
+                                                        <Setter Property="Foreground" Value="#777777"/>
+                                                        <Setter Property="Cursor" Value="Arrow"/>
+                                                        <Setter Property="IsEnabled" Value="False"/> 
+                                                    </DataTrigger>
+                                                    
+                                                    <MultiDataTrigger>
+                                                        <MultiDataTrigger.Conditions>
+                                                            <Condition Binding="{Binding RelativeSource={RelativeSource Self}, Path=IsMouseOver}" Value="True"/>
+                                                            <Condition Binding="{Binding Start, Converter={StaticResource IsFutureDateConverter}}" Value="True"/>
+                                                        </MultiDataTrigger.Conditions>
+                                                        <Setter Property="Background" Value="#FF0000"/> 
+                                                    </MultiDataTrigger>
+                                                </Style.Triggers>
+                                            </Style>
+                                        </Button.Style>
+                                    </Button>
+
+                                </Grid>
+                            </Border>
+                        </DataTemplate>
+                    </ItemsControl.ItemTemplate>
+                </ItemsControl>
+            </Grid>
+        </ScrollViewer>
+    </Grid>
+</UserControl>

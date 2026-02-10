@@ -1,0 +1,1777 @@
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\obj\Debug\net10.0-windows\CinemaSystem.Desktop.csproj.AssemblyReference.cache
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\obj\Debug\net10.0-windows\Views\BookingConfirmationWindow.baml
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\obj\Debug\net10.0-windows\Views\Controls\Carousel3DView.baml
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\obj\Debug\net10.0-windows\Views\CustomMessageBox.baml
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\obj\Debug\net10.0-windows\Views\TicketManagementView.baml
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\obj\Debug\net10.0-windows\MainWindow.g.cs
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\obj\Debug\net10.0-windows\Views\BookingConfirmationWindow.g.cs
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\obj\Debug\net10.0-windows\Views\Controls\Carousel3DView.g.cs
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\obj\Debug\net10.0-windows\Views\CustomerWindow.g.cs
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\obj\Debug\net10.0-windows\Views\CustomMessageBox.g.cs
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\obj\Debug\net10.0-windows\Views\DashboardView.g.cs
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\obj\Debug\net10.0-windows\Views\LoginView.g.cs
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\obj\Debug\net10.0-windows\Views\MovieDetailView.g.cs
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\obj\Debug\net10.0-windows\Views\MoviesView.g.cs
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\obj\Debug\net10.0-windows\Views\ReportsView.g.cs
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\obj\Debug\net10.0-windows\Views\SalesView.g.cs
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\obj\Debug\net10.0-windows\Views\ScheduleView.g.cs
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\obj\Debug\net10.0-windows\Views\SeatSelectionView.g.cs
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\obj\Debug\net10.0-windows\Views\TicketManagementView.g.cs
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\obj\Debug\net10.0-windows\Views\TicketSummaryView.g.cs
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\obj\Debug\net10.0-windows\App.g.cs
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\obj\Debug\net10.0-windows\CinemaSystem.Desktop_Content.g.cs
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\obj\Debug\net10.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\obj\Debug\net10.0-windows\CinemaSystem.Desktop_MarkupCompile.cache
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\obj\Debug\net10.0-windows\CinemaSystem.Desktop_MarkupCompile.lref
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\Resources\Images\avatar-2009.jpg
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\Resources\Images\avatar-fire-and-ash.jpg
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\Resources\Images\avatar-the-way-of-water-2022.jpg
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\Resources\Images\avengers-infinity-war.jpg
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\Resources\Images\back-to-the-future.jpg
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\Resources\Images\captain-america-the-winter-soldier.jpg
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\Resources\Images\david-2025.jpeg
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\Resources\Images\dhurandhar.jpeg
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\Resources\Images\ella-mccay-2025.jpg
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\Resources\Images\eternity.jpg
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\Resources\Images\five-nights-at-freddys-2.jpg
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\Resources\Images\hamnet.jpeg
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\Resources\Images\kill-bill-the-whole-bloody-affair.jpg
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\Resources\Images\la-grazia.jpg
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\Resources\Images\marty-supreme-movie.jpg
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\Resources\Images\merrily-we-roll-along.jpg
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\Resources\Images\now-you-see-me-now-you-dont.jpg
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\Resources\Images\nuremberg.jpg
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\Resources\Images\pacific-rim.jpg
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\Resources\Images\predator-badlands.jpg
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\Resources\Images\spider-man-across-the-spider-verse-part-one.jpg
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\Resources\Images\Star Wars A New Hope-1977.jpg
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\Resources\Images\the-avengers.jpg
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\Resources\Images\the-dark-knight-2008.jpg
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\Resources\Images\the-housemaid-2025.jpg
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\Resources\Images\the-running-man.jpeg
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\Resources\Images\the-spongebob-movie-search-for-squarepants.jpeg
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\Resources\Images\wicked-for-good.jpg
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\Resources\Images\wicked.jpg
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\Resources\Images\zootopia-2.png
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\LatoFont\Lato-Black.ttf
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\LatoFont\Lato-BlackItalic.ttf
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\LatoFont\Lato-Bold.ttf
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\LatoFont\Lato-BoldItalic.ttf
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\LatoFont\Lato-ExtraBold.ttf
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\LatoFont\Lato-ExtraBoldItalic.ttf
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\LatoFont\Lato-ExtraLight.ttf
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\LatoFont\Lato-ExtraLightItalic.ttf
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\LatoFont\Lato-Italic.ttf
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\LatoFont\Lato-Light.ttf
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\LatoFont\Lato-LightItalic.ttf
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\LatoFont\Lato-Medium.ttf
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\LatoFont\Lato-MediumItalic.ttf
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\LatoFont\Lato-Regular.ttf
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\LatoFont\Lato-SemiBold.ttf
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\LatoFont\Lato-SemiBoldItalic.ttf
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\LatoFont\Lato-Thin.ttf
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\LatoFont\Lato-ThinItalic.ttf
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\LatoFont\OFL.txt
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\CinemaSystem.Desktop.exe
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\CinemaSystem.Desktop.deps.json
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\CinemaSystem.Desktop.runtimeconfig.json
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\CinemaSystem.Desktop.dll
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\CinemaSystem.Desktop.pdb
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\CommunityToolkit.Mvvm.dll
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\Humanizer.dll
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\Microsoft.Build.dll
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\Microsoft.Build.Framework.dll
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\Microsoft.Build.Tasks.Core.dll
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\Microsoft.Build.Utilities.Core.dll
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\Microsoft.CodeAnalysis.ExternalAccess.RazorCompiler.dll
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\Microsoft.Data.Sqlite.dll
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\Microsoft.NET.StringTools.dll
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\Mono.TextTemplating.dll
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\Newtonsoft.Json.dll
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\QRCoder.dll
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\QuestPDF.dll
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\SQLitePCLRaw.core.dll
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\System.Composition.AttributedModel.dll
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\System.Composition.Convention.dll
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\System.Composition.Hosting.dll
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\System.Composition.Runtime.dll
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\System.Composition.TypedParts.dll
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\System.Reflection.MetadataLoadContext.dll
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\runtimes\linux-arm64\native\libQuestPdfSkia.so
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\runtimes\linux-arm64\native\libqpdf.so
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\runtimes\linux-musl-x64\native\libQuestPdfSkia.so
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\runtimes\linux-musl-x64\native\libqpdf.so
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\runtimes\linux-x64\native\libQuestPdfSkia.so
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\runtimes\linux-x64\native\libqpdf.so
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\runtimes\osx-arm64\native\libQuestPdfSkia.dylib
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\runtimes\osx-arm64\native\libqpdf.dylib
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\runtimes\osx-x64\native\libQuestPdfSkia.dylib
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\runtimes\osx-x64\native\libqpdf.dylib
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\runtimes\win-x64\native\QuestPdfSkia.dll
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\runtimes\win-x64\native\libgcc_s_seh-1.dll
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\runtimes\win-x64\native\libstdc++-6.dll
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\runtimes\win-x64\native\libwinpthread-1.dll
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\runtimes\win-x64\native\qpdf.dll
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\runtimes\win-x64\native\zlib1.dll
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\runtimes\win-x86\native\QuestPdfSkia.dll
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\runtimes\win-x86\native\libgcc_s_dw2-1.dll
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\runtimes\win-x86\native\libstdc++-6.dll
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\runtimes\win-x86\native\libwinpthread-1.dll
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\runtimes\win-x86\native\qpdf.dll
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\runtimes\win-x86\native\zlib1.dll
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\runtimes\browser-wasm\nativeassets\net9.0\e_sqlite3.a
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\runtimes\linux-musl-riscv64\native\libe_sqlite3.so
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\runtimes\linux-riscv64\native\libe_sqlite3.so
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\bin\Debug\net10.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\obj\Debug\net10.0-windows\App.baml
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\obj\Debug\net10.0-windows\MainWindow.baml
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\obj\Debug\net10.0-windows\Views\CustomerWindow.baml
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\obj\Debug\net10.0-windows\Views\DashboardView.baml
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\obj\Debug\net10.0-windows\Views\LoginView.baml
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\obj\Debug\net10.0-windows\Views\MovieDetailView.baml
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\obj\Debug\net10.0-windows\Views\MoviesView.baml
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\obj\Debug\net10.0-windows\Views\ReportsView.baml
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\obj\Debug\net10.0-windows\Views\SalesView.baml
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\obj\Debug\net10.0-windows\Views\ScheduleView.baml
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\obj\Debug\net10.0-windows\Views\SeatSelectionView.baml
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\obj\Debug\net10.0-windows\Views\TicketSummaryView.baml
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\obj\Debug\net10.0-windows\CinemaSystem.Desktop.g.resources
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\obj\Debug\net10.0-windows\CinemaSystem.Desktop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\obj\Debug\net10.0-windows\CinemaSystem.Desktop.AssemblyInfoInputs.cache
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\obj\Debug\net10.0-windows\CinemaSystem.Desktop.AssemblyInfo.cs
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\obj\Debug\net10.0-windows\CinemaSystem.Desktop.csproj.CoreCompileInputs.cache
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\obj\Debug\net10.0-windows\CinemaSystem.Desktop.sourcelink.json
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\obj\Debug\net10.0-windows\CinemaSy.A4FBFB86.Up2Date
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\obj\Debug\net10.0-windows\CinemaSystem.Desktop.dll
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\obj\Debug\net10.0-windows\refint\CinemaSystem.Desktop.dll
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\obj\Debug\net10.0-windows\CinemaSystem.Desktop.pdb
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\obj\Debug\net10.0-windows\CinemaSystem.Desktop.genruntimeconfig.cache
+C:\Users\Szymon Tkaczyk\Documents\CAv3\CA\obj\Debug\net10.0-windows\ref\CinemaSystem.Desktop.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\obj\Debug\net10.0-windows\CinemaSystem.Desktop.csproj.AssemblyReference.cache
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\obj\Debug\net10.0-windows\Views\BookingConfirmationWindow.baml
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\obj\Debug\net10.0-windows\Views\Controls\Carousel3DView.baml
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\obj\Debug\net10.0-windows\Views\CustomMessageBox.baml
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\obj\Debug\net10.0-windows\Views\TicketManagementView.baml
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\obj\Debug\net10.0-windows\MainWindow.g.cs
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\obj\Debug\net10.0-windows\Views\BookingConfirmationWindow.g.cs
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\obj\Debug\net10.0-windows\Views\Controls\Carousel3DView.g.cs
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\obj\Debug\net10.0-windows\Views\CustomerWindow.g.cs
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\obj\Debug\net10.0-windows\Views\CustomMessageBox.g.cs
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\obj\Debug\net10.0-windows\Views\DashboardView.g.cs
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\obj\Debug\net10.0-windows\Views\LoginView.g.cs
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\obj\Debug\net10.0-windows\Views\MovieDetailView.g.cs
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\obj\Debug\net10.0-windows\Views\MoviesView.g.cs
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\obj\Debug\net10.0-windows\Views\ReportsView.g.cs
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\obj\Debug\net10.0-windows\Views\SalesView.g.cs
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\obj\Debug\net10.0-windows\Views\ScheduleView.g.cs
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\obj\Debug\net10.0-windows\Views\SeatSelectionView.g.cs
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\obj\Debug\net10.0-windows\Views\TicketManagementView.g.cs
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\obj\Debug\net10.0-windows\Views\TicketSummaryView.g.cs
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\obj\Debug\net10.0-windows\App.g.cs
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\obj\Debug\net10.0-windows\CinemaSystem.Desktop_Content.g.cs
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\obj\Debug\net10.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\obj\Debug\net10.0-windows\CinemaSystem.Desktop_MarkupCompile.cache
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\obj\Debug\net10.0-windows\CinemaSystem.Desktop_MarkupCompile.lref
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\obj\Debug\net10.0-windows\CinemaSystem.Desktop.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\obj\Debug\net10.0-windows\refint\CinemaSystem.Desktop.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\obj\Debug\net10.0-windows\CinemaSystem.Desktop.pdb
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\Resources\Images\avatar-2009.jpg
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\Resources\Images\avatar-fire-and-ash.jpg
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\Resources\Images\avatar-the-way-of-water-2022.jpg
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\Resources\Images\avengers-infinity-war.jpg
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\Resources\Images\back-to-the-future.jpg
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\Resources\Images\captain-america-the-winter-soldier.jpg
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\Resources\Images\david-2025.jpeg
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\Resources\Images\dhurandhar.jpeg
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\Resources\Images\ella-mccay-2025.jpg
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\Resources\Images\eternity.jpg
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\Resources\Images\five-nights-at-freddys-2.jpg
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\Resources\Images\hamnet.jpeg
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\Resources\Images\kill-bill-the-whole-bloody-affair.jpg
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\Resources\Images\la-grazia.jpg
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\Resources\Images\marty-supreme-movie.jpg
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\Resources\Images\merrily-we-roll-along.jpg
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\Resources\Images\now-you-see-me-now-you-dont.jpg
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\Resources\Images\nuremberg.jpg
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\Resources\Images\pacific-rim.jpg
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\Resources\Images\predator-badlands.jpg
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\Resources\Images\spider-man-across-the-spider-verse-part-one.jpg
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\Resources\Images\Star Wars A New Hope-1977.jpg
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\Resources\Images\the-avengers.jpg
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\Resources\Images\the-dark-knight-2008.jpg
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\Resources\Images\the-housemaid-2025.jpg
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\Resources\Images\the-running-man.jpeg
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\Resources\Images\the-spongebob-movie-search-for-squarepants.jpeg
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\Resources\Images\wicked-for-good.jpg
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\Resources\Images\wicked.jpg
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\Resources\Images\zootopia-2.png
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\LatoFont\Lato-Black.ttf
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\LatoFont\Lato-BlackItalic.ttf
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\LatoFont\Lato-Bold.ttf
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\LatoFont\Lato-BoldItalic.ttf
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\LatoFont\Lato-ExtraBold.ttf
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\LatoFont\Lato-ExtraBoldItalic.ttf
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\LatoFont\Lato-ExtraLight.ttf
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\LatoFont\Lato-ExtraLightItalic.ttf
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\LatoFont\Lato-Italic.ttf
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\LatoFont\Lato-Light.ttf
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\LatoFont\Lato-LightItalic.ttf
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\LatoFont\Lato-Medium.ttf
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\LatoFont\Lato-MediumItalic.ttf
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\LatoFont\Lato-Regular.ttf
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\LatoFont\Lato-SemiBold.ttf
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\LatoFont\Lato-SemiBoldItalic.ttf
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\LatoFont\Lato-Thin.ttf
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\LatoFont\Lato-ThinItalic.ttf
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\LatoFont\OFL.txt
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\CinemaSystem.Desktop.exe
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\CinemaSystem.Desktop.deps.json
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\CinemaSystem.Desktop.runtimeconfig.json
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\CinemaSystem.Desktop.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\CinemaSystem.Desktop.pdb
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\CommunityToolkit.Mvvm.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\Humanizer.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\Microsoft.Build.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\Microsoft.Build.Framework.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\Microsoft.Build.Tasks.Core.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\Microsoft.Build.Utilities.Core.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\Microsoft.CodeAnalysis.ExternalAccess.RazorCompiler.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\Microsoft.Data.Sqlite.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\Microsoft.NET.StringTools.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\Mono.TextTemplating.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\Newtonsoft.Json.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\QRCoder.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\QuestPDF.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\SQLitePCLRaw.core.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\System.Composition.AttributedModel.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\System.Composition.Convention.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\System.Composition.Hosting.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\System.Composition.Runtime.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\System.Composition.TypedParts.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\System.Reflection.MetadataLoadContext.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\runtimes\linux-arm64\native\libQuestPdfSkia.so
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\runtimes\linux-arm64\native\libqpdf.so
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\runtimes\linux-musl-x64\native\libQuestPdfSkia.so
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\runtimes\linux-musl-x64\native\libqpdf.so
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\runtimes\linux-x64\native\libQuestPdfSkia.so
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\runtimes\linux-x64\native\libqpdf.so
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\runtimes\osx-arm64\native\libQuestPdfSkia.dylib
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\runtimes\osx-arm64\native\libqpdf.dylib
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\runtimes\osx-x64\native\libQuestPdfSkia.dylib
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\runtimes\osx-x64\native\libqpdf.dylib
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\runtimes\win-x64\native\QuestPdfSkia.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\runtimes\win-x64\native\libgcc_s_seh-1.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\runtimes\win-x64\native\libstdc++-6.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\runtimes\win-x64\native\libwinpthread-1.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\runtimes\win-x64\native\qpdf.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\runtimes\win-x64\native\zlib1.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\runtimes\win-x86\native\QuestPdfSkia.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\runtimes\win-x86\native\libgcc_s_dw2-1.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\runtimes\win-x86\native\libstdc++-6.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\runtimes\win-x86\native\libwinpthread-1.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\runtimes\win-x86\native\qpdf.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\runtimes\win-x86\native\zlib1.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\runtimes\browser-wasm\nativeassets\net9.0\e_sqlite3.a
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\runtimes\linux-musl-riscv64\native\libe_sqlite3.so
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\runtimes\linux-riscv64\native\libe_sqlite3.so
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\bin\Debug\net10.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\obj\Debug\net10.0-windows\App.baml
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\obj\Debug\net10.0-windows\MainWindow.baml
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\obj\Debug\net10.0-windows\Views\CustomerWindow.baml
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\obj\Debug\net10.0-windows\Views\DashboardView.baml
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\obj\Debug\net10.0-windows\Views\LoginView.baml
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\obj\Debug\net10.0-windows\Views\MovieDetailView.baml
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\obj\Debug\net10.0-windows\Views\MoviesView.baml
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\obj\Debug\net10.0-windows\Views\ReportsView.baml
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\obj\Debug\net10.0-windows\Views\SalesView.baml
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\obj\Debug\net10.0-windows\Views\ScheduleView.baml
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\obj\Debug\net10.0-windows\Views\SeatSelectionView.baml
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\obj\Debug\net10.0-windows\Views\TicketSummaryView.baml
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\obj\Debug\net10.0-windows\CinemaSystem.Desktop.g.resources
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\obj\Debug\net10.0-windows\CinemaSystem.Desktop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\obj\Debug\net10.0-windows\CinemaSystem.Desktop.AssemblyInfoInputs.cache
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\obj\Debug\net10.0-windows\CinemaSystem.Desktop.AssemblyInfo.cs
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\obj\Debug\net10.0-windows\CinemaSystem.Desktop.csproj.CoreCompileInputs.cache
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\obj\Debug\net10.0-windows\CinemaSystem.Desktop.sourcelink.json
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\obj\Debug\net10.0-windows\CinemaSy.A4FBFB86.Up2Date
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\obj\Debug\net10.0-windows\CinemaSystem.Desktop.genruntimeconfig.cache
+C:\Users\Szymon Tkaczyk\Documents\CA_v25\CA\obj\Debug\net10.0-windows\ref\CinemaSystem.Desktop.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\Resources\Images\avatar-2009.jpg
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\Resources\Images\avatar-fire-and-ash.jpg
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\Resources\Images\avatar-the-way-of-water-2022.jpg
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\Resources\Images\avengers-infinity-war.jpg
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\Resources\Images\back-to-the-future.jpg
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\Resources\Images\captain-america-the-winter-soldier.jpg
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\Resources\Images\david-2025.jpeg
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\Resources\Images\dhurandhar.jpeg
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\Resources\Images\ella-mccay-2025.jpg
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\Resources\Images\eternity.jpg
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\Resources\Images\five-nights-at-freddys-2.jpg
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\Resources\Images\hamnet.jpeg
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\Resources\Images\kill-bill-the-whole-bloody-affair.jpg
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\Resources\Images\la-grazia.jpg
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\Resources\Images\marty-supreme-movie.jpg
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\Resources\Images\merrily-we-roll-along.jpg
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\Resources\Images\now-you-see-me-now-you-dont.jpg
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\Resources\Images\nuremberg.jpg
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\Resources\Images\pacific-rim.jpg
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\Resources\Images\predator-badlands.jpg
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\Resources\Images\spider-man-across-the-spider-verse-part-one.jpg
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\Resources\Images\Star Wars A New Hope-1977.jpg
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\Resources\Images\the-avengers.jpg
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\Resources\Images\the-dark-knight-2008.jpg
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\Resources\Images\the-housemaid-2025.jpg
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\Resources\Images\the-running-man.jpeg
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\Resources\Images\the-spongebob-movie-search-for-squarepants.jpeg
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\Resources\Images\wicked-for-good.jpg
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\Resources\Images\wicked.jpg
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\Resources\Images\zootopia-2.png
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\LatoFont\Lato-Black.ttf
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\LatoFont\Lato-BlackItalic.ttf
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\LatoFont\Lato-Bold.ttf
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\LatoFont\Lato-BoldItalic.ttf
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\LatoFont\Lato-ExtraBold.ttf
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\LatoFont\Lato-ExtraBoldItalic.ttf
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\LatoFont\Lato-ExtraLight.ttf
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\LatoFont\Lato-ExtraLightItalic.ttf
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\LatoFont\Lato-Italic.ttf
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\LatoFont\Lato-Light.ttf
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\LatoFont\Lato-LightItalic.ttf
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\LatoFont\Lato-Medium.ttf
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\LatoFont\Lato-MediumItalic.ttf
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\LatoFont\Lato-Regular.ttf
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\LatoFont\Lato-SemiBold.ttf
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\LatoFont\Lato-SemiBoldItalic.ttf
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\LatoFont\Lato-Thin.ttf
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\LatoFont\Lato-ThinItalic.ttf
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\LatoFont\OFL.txt
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\CinemaSystem.Desktop.exe
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\CinemaSystem.Desktop.deps.json
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\CinemaSystem.Desktop.runtimeconfig.json
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\CinemaSystem.Desktop.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\CinemaSystem.Desktop.pdb
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\CommunityToolkit.Mvvm.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\Humanizer.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\Microsoft.Build.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\Microsoft.Build.Framework.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\Microsoft.Build.Tasks.Core.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\Microsoft.Build.Utilities.Core.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\Microsoft.CodeAnalysis.ExternalAccess.RazorCompiler.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\Microsoft.Data.Sqlite.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\Microsoft.NET.StringTools.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\Mono.TextTemplating.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\Newtonsoft.Json.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\QRCoder.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\QuestPDF.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\SQLitePCLRaw.core.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\System.Composition.AttributedModel.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\System.Composition.Convention.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\System.Composition.Hosting.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\System.Composition.Runtime.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\System.Composition.TypedParts.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\System.Reflection.MetadataLoadContext.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\runtimes\linux-arm64\native\libQuestPdfSkia.so
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\runtimes\linux-arm64\native\libqpdf.so
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\runtimes\linux-musl-x64\native\libQuestPdfSkia.so
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\runtimes\linux-musl-x64\native\libqpdf.so
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\runtimes\linux-x64\native\libQuestPdfSkia.so
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\runtimes\linux-x64\native\libqpdf.so
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\runtimes\osx-arm64\native\libQuestPdfSkia.dylib
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\runtimes\osx-arm64\native\libqpdf.dylib
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\runtimes\osx-x64\native\libQuestPdfSkia.dylib
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\runtimes\osx-x64\native\libqpdf.dylib
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\runtimes\win-x64\native\QuestPdfSkia.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\runtimes\win-x64\native\libgcc_s_seh-1.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\runtimes\win-x64\native\libstdc++-6.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\runtimes\win-x64\native\libwinpthread-1.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\runtimes\win-x64\native\qpdf.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\runtimes\win-x64\native\zlib1.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\runtimes\win-x86\native\QuestPdfSkia.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\runtimes\win-x86\native\libgcc_s_dw2-1.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\runtimes\win-x86\native\libstdc++-6.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\runtimes\win-x86\native\libwinpthread-1.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\runtimes\win-x86\native\qpdf.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\runtimes\win-x86\native\zlib1.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\runtimes\browser-wasm\nativeassets\net9.0\e_sqlite3.a
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\runtimes\linux-musl-riscv64\native\libe_sqlite3.so
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\runtimes\linux-riscv64\native\libe_sqlite3.so
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\bin\Debug\net10.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\obj\Debug\net10.0-windows\CinemaSystem.Desktop.csproj.AssemblyReference.cache
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\obj\Debug\net10.0-windows\Views\BookingConfirmationWindow.baml
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\obj\Debug\net10.0-windows\Views\Controls\Carousel3DView.baml
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\obj\Debug\net10.0-windows\Views\CustomMessageBox.baml
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\obj\Debug\net10.0-windows\Views\TicketManagementView.baml
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\obj\Debug\net10.0-windows\MainWindow.g.cs
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\obj\Debug\net10.0-windows\Views\BookingConfirmationWindow.g.cs
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\obj\Debug\net10.0-windows\Views\Controls\Carousel3DView.g.cs
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\obj\Debug\net10.0-windows\Views\CustomerWindow.g.cs
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\obj\Debug\net10.0-windows\Views\CustomMessageBox.g.cs
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\obj\Debug\net10.0-windows\Views\DashboardView.g.cs
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\obj\Debug\net10.0-windows\Views\LoginView.g.cs
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\obj\Debug\net10.0-windows\Views\MovieDetailView.g.cs
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\obj\Debug\net10.0-windows\Views\MoviesView.g.cs
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\obj\Debug\net10.0-windows\Views\ReportsView.g.cs
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\obj\Debug\net10.0-windows\Views\ScheduleView.g.cs
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\obj\Debug\net10.0-windows\Views\SeatSelectionView.g.cs
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\obj\Debug\net10.0-windows\Views\TicketManagementView.g.cs
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\obj\Debug\net10.0-windows\Views\TicketSummaryView.g.cs
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\obj\Debug\net10.0-windows\App.g.cs
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\obj\Debug\net10.0-windows\CinemaSystem.Desktop_Content.g.cs
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\obj\Debug\net10.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\obj\Debug\net10.0-windows\CinemaSystem.Desktop_MarkupCompile.cache
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\obj\Debug\net10.0-windows\CinemaSystem.Desktop_MarkupCompile.lref
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\obj\Debug\net10.0-windows\App.baml
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\obj\Debug\net10.0-windows\MainWindow.baml
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\obj\Debug\net10.0-windows\Views\CustomerWindow.baml
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\obj\Debug\net10.0-windows\Views\DashboardView.baml
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\obj\Debug\net10.0-windows\Views\LoginView.baml
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\obj\Debug\net10.0-windows\Views\MovieDetailView.baml
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\obj\Debug\net10.0-windows\Views\MoviesView.baml
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\obj\Debug\net10.0-windows\Views\ReportsView.baml
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\obj\Debug\net10.0-windows\Views\ScheduleView.baml
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\obj\Debug\net10.0-windows\Views\SeatSelectionView.baml
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\obj\Debug\net10.0-windows\Views\TicketSummaryView.baml
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\obj\Debug\net10.0-windows\CinemaSystem.Desktop.g.resources
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\obj\Debug\net10.0-windows\CinemaSystem.Desktop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\obj\Debug\net10.0-windows\CinemaSystem.Desktop.AssemblyInfoInputs.cache
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\obj\Debug\net10.0-windows\CinemaSystem.Desktop.AssemblyInfo.cs
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\obj\Debug\net10.0-windows\CinemaSystem.Desktop.csproj.CoreCompileInputs.cache
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\obj\Debug\net10.0-windows\CinemaSystem.Desktop.sourcelink.json
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\obj\Debug\net10.0-windows\CinemaSy.A4FBFB86.Up2Date
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\obj\Debug\net10.0-windows\CinemaSystem.Desktop.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\obj\Debug\net10.0-windows\refint\CinemaSystem.Desktop.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\obj\Debug\net10.0-windows\CinemaSystem.Desktop.pdb
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\obj\Debug\net10.0-windows\CinemaSystem.Desktop.genruntimeconfig.cache
+C:\Users\Szymon Tkaczyk\Documents\CA_v26\CA\obj\Debug\net10.0-windows\ref\CinemaSystem.Desktop.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\Resources\Images\avatar-2009.jpg
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\Resources\Images\avatar-fire-and-ash.jpg
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\Resources\Images\avatar-the-way-of-water-2022.jpg
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\Resources\Images\avengers-infinity-war.jpg
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\Resources\Images\back-to-the-future.jpg
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\Resources\Images\captain-america-the-winter-soldier.jpg
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\Resources\Images\david-2025.jpeg
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\Resources\Images\dhurandhar.jpeg
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\Resources\Images\ella-mccay-2025.jpg
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\Resources\Images\eternity.jpg
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\Resources\Images\five-nights-at-freddys-2.jpg
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\Resources\Images\hamnet.jpeg
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\Resources\Images\kill-bill-the-whole-bloody-affair.jpg
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\Resources\Images\la-grazia.jpg
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\Resources\Images\marty-supreme-movie.jpg
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\Resources\Images\merrily-we-roll-along.jpg
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\Resources\Images\now-you-see-me-now-you-dont.jpg
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\Resources\Images\nuremberg.jpg
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\Resources\Images\pacific-rim.jpg
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\Resources\Images\predator-badlands.jpg
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\Resources\Images\spider-man-across-the-spider-verse-part-one.jpg
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\Resources\Images\Star Wars A New Hope-1977.jpg
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\Resources\Images\the-avengers.jpg
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\Resources\Images\the-dark-knight-2008.jpg
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\Resources\Images\the-housemaid-2025.jpg
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\Resources\Images\the-running-man.jpeg
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\Resources\Images\the-spongebob-movie-search-for-squarepants.jpeg
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\Resources\Images\wicked-for-good.jpg
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\Resources\Images\wicked.jpg
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\Resources\Images\zootopia-2.png
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\LatoFont\Lato-Black.ttf
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\LatoFont\Lato-BlackItalic.ttf
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\LatoFont\Lato-Bold.ttf
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\LatoFont\Lato-BoldItalic.ttf
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\LatoFont\Lato-ExtraBold.ttf
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\LatoFont\Lato-ExtraBoldItalic.ttf
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\LatoFont\Lato-ExtraLight.ttf
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\LatoFont\Lato-ExtraLightItalic.ttf
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\LatoFont\Lato-Italic.ttf
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\LatoFont\Lato-Light.ttf
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\LatoFont\Lato-LightItalic.ttf
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\LatoFont\Lato-Medium.ttf
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\LatoFont\Lato-MediumItalic.ttf
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\LatoFont\Lato-Regular.ttf
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\LatoFont\Lato-SemiBold.ttf
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\LatoFont\Lato-SemiBoldItalic.ttf
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\LatoFont\Lato-Thin.ttf
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\LatoFont\Lato-ThinItalic.ttf
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\LatoFont\OFL.txt
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\CinemaSystem.Desktop.exe
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\CinemaSystem.Desktop.deps.json
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\CinemaSystem.Desktop.runtimeconfig.json
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\CinemaSystem.Desktop.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\CinemaSystem.Desktop.pdb
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\CommunityToolkit.Mvvm.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\Humanizer.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\Microsoft.Build.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\Microsoft.Build.Framework.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\Microsoft.Build.Tasks.Core.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\Microsoft.Build.Utilities.Core.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\Microsoft.CodeAnalysis.ExternalAccess.RazorCompiler.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\Microsoft.Data.Sqlite.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\Microsoft.NET.StringTools.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\Mono.TextTemplating.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\Newtonsoft.Json.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\QRCoder.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\QuestPDF.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\SQLitePCLRaw.core.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\System.Composition.AttributedModel.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\System.Composition.Convention.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\System.Composition.Hosting.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\System.Composition.Runtime.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\System.Composition.TypedParts.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\System.Reflection.MetadataLoadContext.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\runtimes\linux-arm64\native\libQuestPdfSkia.so
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\runtimes\linux-arm64\native\libqpdf.so
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\runtimes\linux-musl-x64\native\libQuestPdfSkia.so
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\runtimes\linux-musl-x64\native\libqpdf.so
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\runtimes\linux-x64\native\libQuestPdfSkia.so
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\runtimes\linux-x64\native\libqpdf.so
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\runtimes\osx-arm64\native\libQuestPdfSkia.dylib
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\runtimes\osx-arm64\native\libqpdf.dylib
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\runtimes\osx-x64\native\libQuestPdfSkia.dylib
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\runtimes\osx-x64\native\libqpdf.dylib
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\runtimes\win-x64\native\QuestPdfSkia.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\runtimes\win-x64\native\libgcc_s_seh-1.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\runtimes\win-x64\native\libstdc++-6.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\runtimes\win-x64\native\libwinpthread-1.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\runtimes\win-x64\native\qpdf.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\runtimes\win-x64\native\zlib1.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\runtimes\win-x86\native\QuestPdfSkia.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\runtimes\win-x86\native\libgcc_s_dw2-1.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\runtimes\win-x86\native\libstdc++-6.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\runtimes\win-x86\native\libwinpthread-1.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\runtimes\win-x86\native\qpdf.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\runtimes\win-x86\native\zlib1.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\runtimes\browser-wasm\nativeassets\net9.0\e_sqlite3.a
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\runtimes\linux-musl-riscv64\native\libe_sqlite3.so
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\runtimes\linux-riscv64\native\libe_sqlite3.so
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\bin\Debug\net10.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\obj\Debug\net10.0-windows\CinemaSystem.Desktop.csproj.AssemblyReference.cache
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\obj\Debug\net10.0-windows\Views\BookingConfirmationWindow.baml
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\obj\Debug\net10.0-windows\Views\Controls\Carousel3DView.baml
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\obj\Debug\net10.0-windows\Views\CustomMessageBox.baml
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\obj\Debug\net10.0-windows\Views\TicketManagementView.baml
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\obj\Debug\net10.0-windows\MainWindow.g.cs
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\obj\Debug\net10.0-windows\Views\BookingConfirmationWindow.g.cs
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\obj\Debug\net10.0-windows\Views\Controls\Carousel3DView.g.cs
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\obj\Debug\net10.0-windows\Views\CustomerWindow.g.cs
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\obj\Debug\net10.0-windows\Views\CustomMessageBox.g.cs
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\obj\Debug\net10.0-windows\Views\DashboardView.g.cs
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\obj\Debug\net10.0-windows\Views\LoginView.g.cs
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\obj\Debug\net10.0-windows\Views\MovieDetailView.g.cs
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\obj\Debug\net10.0-windows\Views\MoviesView.g.cs
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\obj\Debug\net10.0-windows\Views\ReportsView.g.cs
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\obj\Debug\net10.0-windows\Views\ScheduleView.g.cs
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\obj\Debug\net10.0-windows\Views\SeatSelectionView.g.cs
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\obj\Debug\net10.0-windows\Views\TicketManagementView.g.cs
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\obj\Debug\net10.0-windows\Views\TicketSummaryView.g.cs
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\obj\Debug\net10.0-windows\App.g.cs
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\obj\Debug\net10.0-windows\CinemaSystem.Desktop_Content.g.cs
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\obj\Debug\net10.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\obj\Debug\net10.0-windows\CinemaSystem.Desktop_MarkupCompile.cache
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\obj\Debug\net10.0-windows\CinemaSystem.Desktop_MarkupCompile.lref
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\obj\Debug\net10.0-windows\App.baml
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\obj\Debug\net10.0-windows\MainWindow.baml
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\obj\Debug\net10.0-windows\Views\CustomerWindow.baml
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\obj\Debug\net10.0-windows\Views\DashboardView.baml
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\obj\Debug\net10.0-windows\Views\LoginView.baml
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\obj\Debug\net10.0-windows\Views\MovieDetailView.baml
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\obj\Debug\net10.0-windows\Views\MoviesView.baml
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\obj\Debug\net10.0-windows\Views\ReportsView.baml
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\obj\Debug\net10.0-windows\Views\ScheduleView.baml
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\obj\Debug\net10.0-windows\Views\SeatSelectionView.baml
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\obj\Debug\net10.0-windows\Views\TicketSummaryView.baml
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\obj\Debug\net10.0-windows\CinemaSystem.Desktop.g.resources
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\obj\Debug\net10.0-windows\CinemaSystem.Desktop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\obj\Debug\net10.0-windows\CinemaSystem.Desktop.AssemblyInfoInputs.cache
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\obj\Debug\net10.0-windows\CinemaSystem.Desktop.AssemblyInfo.cs
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\obj\Debug\net10.0-windows\CinemaSystem.Desktop.csproj.CoreCompileInputs.cache
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\obj\Debug\net10.0-windows\CinemaSystem.Desktop.sourcelink.json
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\obj\Debug\net10.0-windows\CinemaSy.A4FBFB86.Up2Date
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\obj\Debug\net10.0-windows\CinemaSystem.Desktop.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\obj\Debug\net10.0-windows\refint\CinemaSystem.Desktop.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\obj\Debug\net10.0-windows\CinemaSystem.Desktop.pdb
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\obj\Debug\net10.0-windows\CinemaSystem.Desktop.genruntimeconfig.cache
+C:\Users\Szymon Tkaczyk\Documents\CA_v27\CA\obj\Debug\net10.0-windows\ref\CinemaSystem.Desktop.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\obj\Debug\net10.0-windows\CinemaSystem.Desktop.csproj.AssemblyReference.cache
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\obj\Debug\net10.0-windows\Views\BookingConfirmationWindow.baml
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\obj\Debug\net10.0-windows\Views\Controls\Carousel3DView.baml
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\obj\Debug\net10.0-windows\Views\CustomMessageBox.baml
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\obj\Debug\net10.0-windows\Views\TicketManagementView.baml
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\obj\Debug\net10.0-windows\MainWindow.g.cs
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\obj\Debug\net10.0-windows\Views\BookingConfirmationWindow.g.cs
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\obj\Debug\net10.0-windows\Views\Controls\Carousel3DView.g.cs
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\obj\Debug\net10.0-windows\Views\CustomerWindow.g.cs
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\obj\Debug\net10.0-windows\Views\CustomMessageBox.g.cs
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\obj\Debug\net10.0-windows\Views\DashboardView.g.cs
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\obj\Debug\net10.0-windows\Views\LoginView.g.cs
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\obj\Debug\net10.0-windows\Views\MovieDetailView.g.cs
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\obj\Debug\net10.0-windows\Views\MoviesView.g.cs
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\obj\Debug\net10.0-windows\Views\ReportsView.g.cs
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\obj\Debug\net10.0-windows\Views\ScheduleView.g.cs
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\obj\Debug\net10.0-windows\Views\SeatSelectionView.g.cs
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\obj\Debug\net10.0-windows\Views\TicketManagementView.g.cs
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\obj\Debug\net10.0-windows\Views\TicketSummaryView.g.cs
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\obj\Debug\net10.0-windows\App.g.cs
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\obj\Debug\net10.0-windows\CinemaSystem.Desktop_Content.g.cs
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\obj\Debug\net10.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\obj\Debug\net10.0-windows\CinemaSystem.Desktop_MarkupCompile.cache
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\obj\Debug\net10.0-windows\CinemaSystem.Desktop_MarkupCompile.lref
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\obj\Debug\net10.0-windows\CinemaSystem.Desktop.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\obj\Debug\net10.0-windows\refint\CinemaSystem.Desktop.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\obj\Debug\net10.0-windows\CinemaSystem.Desktop.pdb
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\Resources\Images\avatar-2009.jpg
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\Resources\Images\avatar-fire-and-ash.jpg
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\Resources\Images\avatar-the-way-of-water-2022.jpg
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\Resources\Images\avengers-infinity-war.jpg
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\Resources\Images\back-to-the-future.jpg
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\Resources\Images\captain-america-the-winter-soldier.jpg
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\Resources\Images\david-2025.jpeg
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\Resources\Images\dhurandhar.jpeg
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\Resources\Images\ella-mccay-2025.jpg
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\Resources\Images\eternity.jpg
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\Resources\Images\five-nights-at-freddys-2.jpg
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\Resources\Images\hamnet.jpeg
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\Resources\Images\kill-bill-the-whole-bloody-affair.jpg
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\Resources\Images\la-grazia.jpg
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\Resources\Images\marty-supreme-movie.jpg
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\Resources\Images\merrily-we-roll-along.jpg
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\Resources\Images\now-you-see-me-now-you-dont.jpg
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\Resources\Images\nuremberg.jpg
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\Resources\Images\pacific-rim.jpg
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\Resources\Images\predator-badlands.jpg
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\Resources\Images\spider-man-across-the-spider-verse-part-one.jpg
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\Resources\Images\Star Wars A New Hope-1977.jpg
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\Resources\Images\the-avengers.jpg
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\Resources\Images\the-dark-knight-2008.jpg
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\Resources\Images\the-housemaid-2025.jpg
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\Resources\Images\the-running-man.jpeg
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\Resources\Images\the-spongebob-movie-search-for-squarepants.jpeg
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\Resources\Images\wicked-for-good.jpg
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\Resources\Images\wicked.jpg
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\Resources\Images\zootopia-2.png
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\LatoFont\Lato-Black.ttf
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\LatoFont\Lato-BlackItalic.ttf
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\LatoFont\Lato-Bold.ttf
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\LatoFont\Lato-BoldItalic.ttf
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\LatoFont\Lato-ExtraBold.ttf
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\LatoFont\Lato-ExtraBoldItalic.ttf
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\LatoFont\Lato-ExtraLight.ttf
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\LatoFont\Lato-ExtraLightItalic.ttf
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\LatoFont\Lato-Italic.ttf
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\LatoFont\Lato-Light.ttf
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\LatoFont\Lato-LightItalic.ttf
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\LatoFont\Lato-Medium.ttf
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\LatoFont\Lato-MediumItalic.ttf
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\LatoFont\Lato-Regular.ttf
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\LatoFont\Lato-SemiBold.ttf
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\LatoFont\Lato-SemiBoldItalic.ttf
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\LatoFont\Lato-Thin.ttf
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\LatoFont\Lato-ThinItalic.ttf
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\LatoFont\OFL.txt
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\CinemaSystem.Desktop.exe
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\CinemaSystem.Desktop.deps.json
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\CinemaSystem.Desktop.runtimeconfig.json
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\CinemaSystem.Desktop.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\CinemaSystem.Desktop.pdb
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\CommunityToolkit.Mvvm.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\Humanizer.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\Microsoft.Build.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\Microsoft.Build.Framework.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\Microsoft.Build.Tasks.Core.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\Microsoft.Build.Utilities.Core.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\Microsoft.CodeAnalysis.ExternalAccess.RazorCompiler.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\Microsoft.Data.Sqlite.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\Microsoft.NET.StringTools.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\Mono.TextTemplating.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\Newtonsoft.Json.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\QRCoder.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\QuestPDF.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\SQLitePCLRaw.core.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\System.Composition.AttributedModel.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\System.Composition.Convention.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\System.Composition.Hosting.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\System.Composition.Runtime.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\System.Composition.TypedParts.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\System.Reflection.MetadataLoadContext.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\runtimes\linux-arm64\native\libQuestPdfSkia.so
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\runtimes\linux-arm64\native\libqpdf.so
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\runtimes\linux-musl-x64\native\libQuestPdfSkia.so
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\runtimes\linux-musl-x64\native\libqpdf.so
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\runtimes\linux-x64\native\libQuestPdfSkia.so
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\runtimes\linux-x64\native\libqpdf.so
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\runtimes\osx-arm64\native\libQuestPdfSkia.dylib
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\runtimes\osx-arm64\native\libqpdf.dylib
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\runtimes\osx-x64\native\libQuestPdfSkia.dylib
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\runtimes\osx-x64\native\libqpdf.dylib
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\runtimes\win-x64\native\QuestPdfSkia.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\runtimes\win-x64\native\libgcc_s_seh-1.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\runtimes\win-x64\native\libstdc++-6.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\runtimes\win-x64\native\libwinpthread-1.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\runtimes\win-x64\native\qpdf.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\runtimes\win-x64\native\zlib1.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\runtimes\win-x86\native\QuestPdfSkia.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\runtimes\win-x86\native\libgcc_s_dw2-1.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\runtimes\win-x86\native\libstdc++-6.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\runtimes\win-x86\native\libwinpthread-1.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\runtimes\win-x86\native\qpdf.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\runtimes\win-x86\native\zlib1.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\runtimes\browser-wasm\nativeassets\net9.0\e_sqlite3.a
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\runtimes\linux-musl-riscv64\native\libe_sqlite3.so
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\runtimes\linux-riscv64\native\libe_sqlite3.so
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\bin\Debug\net10.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\obj\Debug\net10.0-windows\App.baml
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\obj\Debug\net10.0-windows\MainWindow.baml
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\obj\Debug\net10.0-windows\Views\CustomerWindow.baml
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\obj\Debug\net10.0-windows\Views\DashboardView.baml
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\obj\Debug\net10.0-windows\Views\LoginView.baml
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\obj\Debug\net10.0-windows\Views\MovieDetailView.baml
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\obj\Debug\net10.0-windows\Views\MoviesView.baml
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\obj\Debug\net10.0-windows\Views\ReportsView.baml
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\obj\Debug\net10.0-windows\Views\ScheduleView.baml
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\obj\Debug\net10.0-windows\Views\SeatSelectionView.baml
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\obj\Debug\net10.0-windows\Views\TicketSummaryView.baml
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\obj\Debug\net10.0-windows\CinemaSystem.Desktop.g.resources
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\obj\Debug\net10.0-windows\CinemaSystem.Desktop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\obj\Debug\net10.0-windows\CinemaSystem.Desktop.AssemblyInfoInputs.cache
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\obj\Debug\net10.0-windows\CinemaSystem.Desktop.AssemblyInfo.cs
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\obj\Debug\net10.0-windows\CinemaSystem.Desktop.csproj.CoreCompileInputs.cache
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\obj\Debug\net10.0-windows\CinemaSystem.Desktop.sourcelink.json
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\obj\Debug\net10.0-windows\CinemaSy.A4FBFB86.Up2Date
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\obj\Debug\net10.0-windows\CinemaSystem.Desktop.genruntimeconfig.cache
+C:\Users\Szymon Tkaczyk\Documents\CA_v28\CA\obj\Debug\net10.0-windows\ref\CinemaSystem.Desktop.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\Resources\Images\avatar-2009.jpg
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\Resources\Images\avatar-fire-and-ash.jpg
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\Resources\Images\avatar-the-way-of-water-2022.jpg
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\Resources\Images\avengers-infinity-war.jpg
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\Resources\Images\back-to-the-future.jpg
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\Resources\Images\captain-america-the-winter-soldier.jpg
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\Resources\Images\david-2025.jpeg
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\Resources\Images\dhurandhar.jpeg
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\Resources\Images\ella-mccay-2025.jpg
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\Resources\Images\eternity.jpg
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\Resources\Images\five-nights-at-freddys-2.jpg
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\Resources\Images\hamnet.jpeg
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\Resources\Images\kill-bill-the-whole-bloody-affair.jpg
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\Resources\Images\la-grazia.jpg
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\Resources\Images\marty-supreme-movie.jpg
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\Resources\Images\merrily-we-roll-along.jpg
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\Resources\Images\now-you-see-me-now-you-dont.jpg
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\Resources\Images\nuremberg.jpg
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\Resources\Images\pacific-rim.jpg
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\Resources\Images\predator-badlands.jpg
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\Resources\Images\spider-man-across-the-spider-verse-part-one.jpg
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\Resources\Images\Star Wars A New Hope-1977.jpg
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\Resources\Images\the-avengers.jpg
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\Resources\Images\the-dark-knight-2008.jpg
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\Resources\Images\the-housemaid-2025.jpg
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\Resources\Images\the-running-man.jpeg
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\Resources\Images\the-spongebob-movie-search-for-squarepants.jpeg
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\Resources\Images\wicked-for-good.jpg
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\Resources\Images\wicked.jpg
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\Resources\Images\zootopia-2.png
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\LatoFont\Lato-Black.ttf
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\LatoFont\Lato-BlackItalic.ttf
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\LatoFont\Lato-Bold.ttf
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\LatoFont\Lato-BoldItalic.ttf
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\LatoFont\Lato-ExtraBold.ttf
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\LatoFont\Lato-ExtraBoldItalic.ttf
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\LatoFont\Lato-ExtraLight.ttf
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\LatoFont\Lato-ExtraLightItalic.ttf
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\LatoFont\Lato-Italic.ttf
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\LatoFont\Lato-Light.ttf
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\LatoFont\Lato-LightItalic.ttf
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\LatoFont\Lato-Medium.ttf
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\LatoFont\Lato-MediumItalic.ttf
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\LatoFont\Lato-Regular.ttf
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\LatoFont\Lato-SemiBold.ttf
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\LatoFont\Lato-SemiBoldItalic.ttf
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\LatoFont\Lato-Thin.ttf
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\LatoFont\Lato-ThinItalic.ttf
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\LatoFont\OFL.txt
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\CinemaSystem.Desktop.exe
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\CinemaSystem.Desktop.deps.json
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\CinemaSystem.Desktop.runtimeconfig.json
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\CinemaSystem.Desktop.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\CinemaSystem.Desktop.pdb
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\CommunityToolkit.Mvvm.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\Humanizer.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\Microsoft.Build.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\Microsoft.Build.Framework.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\Microsoft.Build.Tasks.Core.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\Microsoft.Build.Utilities.Core.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\Microsoft.CodeAnalysis.ExternalAccess.RazorCompiler.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\Microsoft.Data.Sqlite.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\Microsoft.NET.StringTools.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\Mono.TextTemplating.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\Newtonsoft.Json.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\QRCoder.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\QuestPDF.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\SQLitePCLRaw.core.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\System.Composition.AttributedModel.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\System.Composition.Convention.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\System.Composition.Hosting.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\System.Composition.Runtime.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\System.Composition.TypedParts.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\System.Reflection.MetadataLoadContext.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\runtimes\linux-arm64\native\libQuestPdfSkia.so
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\runtimes\linux-arm64\native\libqpdf.so
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\runtimes\linux-musl-x64\native\libQuestPdfSkia.so
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\runtimes\linux-musl-x64\native\libqpdf.so
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\runtimes\linux-x64\native\libQuestPdfSkia.so
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\runtimes\linux-x64\native\libqpdf.so
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\runtimes\osx-arm64\native\libQuestPdfSkia.dylib
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\runtimes\osx-arm64\native\libqpdf.dylib
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\runtimes\osx-x64\native\libQuestPdfSkia.dylib
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\runtimes\osx-x64\native\libqpdf.dylib
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\runtimes\win-x64\native\QuestPdfSkia.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\runtimes\win-x64\native\libgcc_s_seh-1.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\runtimes\win-x64\native\libstdc++-6.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\runtimes\win-x64\native\libwinpthread-1.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\runtimes\win-x64\native\qpdf.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\runtimes\win-x64\native\zlib1.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\runtimes\win-x86\native\QuestPdfSkia.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\runtimes\win-x86\native\libgcc_s_dw2-1.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\runtimes\win-x86\native\libstdc++-6.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\runtimes\win-x86\native\libwinpthread-1.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\runtimes\win-x86\native\qpdf.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\runtimes\win-x86\native\zlib1.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\runtimes\browser-wasm\nativeassets\net9.0\e_sqlite3.a
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\runtimes\linux-musl-riscv64\native\libe_sqlite3.so
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\runtimes\linux-riscv64\native\libe_sqlite3.so
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\bin\Debug\net10.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\obj\Debug\net10.0-windows\CinemaSystem.Desktop.csproj.AssemblyReference.cache
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\obj\Debug\net10.0-windows\Views\BookingConfirmationWindow.baml
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\obj\Debug\net10.0-windows\Views\Controls\Carousel3DView.baml
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\obj\Debug\net10.0-windows\Views\CustomMessageBox.baml
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\obj\Debug\net10.0-windows\Views\TicketManagementView.baml
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\obj\Debug\net10.0-windows\MainWindow.g.cs
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\obj\Debug\net10.0-windows\Views\BookingConfirmationWindow.g.cs
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\obj\Debug\net10.0-windows\Views\Controls\Carousel3DView.g.cs
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\obj\Debug\net10.0-windows\Views\CustomerWindow.g.cs
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\obj\Debug\net10.0-windows\Views\CustomMessageBox.g.cs
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\obj\Debug\net10.0-windows\Views\DashboardView.g.cs
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\obj\Debug\net10.0-windows\Views\LoginView.g.cs
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\obj\Debug\net10.0-windows\Views\MovieDetailView.g.cs
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\obj\Debug\net10.0-windows\Views\MoviesView.g.cs
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\obj\Debug\net10.0-windows\Views\ReportsView.g.cs
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\obj\Debug\net10.0-windows\Views\ScheduleView.g.cs
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\obj\Debug\net10.0-windows\Views\SeatSelectionView.g.cs
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\obj\Debug\net10.0-windows\Views\TicketManagementView.g.cs
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\obj\Debug\net10.0-windows\Views\TicketSummaryView.g.cs
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\obj\Debug\net10.0-windows\App.g.cs
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\obj\Debug\net10.0-windows\CinemaSystem.Desktop_Content.g.cs
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\obj\Debug\net10.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\obj\Debug\net10.0-windows\CinemaSystem.Desktop_MarkupCompile.cache
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\obj\Debug\net10.0-windows\CinemaSystem.Desktop_MarkupCompile.lref
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\obj\Debug\net10.0-windows\App.baml
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\obj\Debug\net10.0-windows\MainWindow.baml
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\obj\Debug\net10.0-windows\Views\CustomerWindow.baml
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\obj\Debug\net10.0-windows\Views\DashboardView.baml
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\obj\Debug\net10.0-windows\Views\LoginView.baml
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\obj\Debug\net10.0-windows\Views\MovieDetailView.baml
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\obj\Debug\net10.0-windows\Views\MoviesView.baml
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\obj\Debug\net10.0-windows\Views\ReportsView.baml
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\obj\Debug\net10.0-windows\Views\ScheduleView.baml
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\obj\Debug\net10.0-windows\Views\SeatSelectionView.baml
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\obj\Debug\net10.0-windows\Views\TicketSummaryView.baml
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\obj\Debug\net10.0-windows\CinemaSystem.Desktop.g.resources
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\obj\Debug\net10.0-windows\CinemaSystem.Desktop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\obj\Debug\net10.0-windows\CinemaSystem.Desktop.AssemblyInfoInputs.cache
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\obj\Debug\net10.0-windows\CinemaSystem.Desktop.AssemblyInfo.cs
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\obj\Debug\net10.0-windows\CinemaSystem.Desktop.csproj.CoreCompileInputs.cache
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\obj\Debug\net10.0-windows\CinemaSystem.Desktop.sourcelink.json
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\obj\Debug\net10.0-windows\CinemaSy.A4FBFB86.Up2Date
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\obj\Debug\net10.0-windows\CinemaSystem.Desktop.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\obj\Debug\net10.0-windows\refint\CinemaSystem.Desktop.dll
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\obj\Debug\net10.0-windows\CinemaSystem.Desktop.pdb
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\obj\Debug\net10.0-windows\CinemaSystem.Desktop.genruntimeconfig.cache
+C:\Users\Szymon Tkaczyk\Documents\CA_v29\CA\obj\Debug\net10.0-windows\ref\CinemaSystem.Desktop.dll
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\Resources\Images\avatar-2009.jpg
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\Resources\Images\avatar-fire-and-ash.jpg
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\Resources\Images\avatar-the-way-of-water-2022.jpg
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\Resources\Images\avengers-infinity-war.jpg
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\Resources\Images\back-to-the-future.jpg
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\Resources\Images\captain-america-the-winter-soldier.jpg
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\Resources\Images\david-2025.jpeg
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\Resources\Images\dhurandhar.jpeg
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\Resources\Images\ella-mccay-2025.jpg
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\Resources\Images\eternity.jpg
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\Resources\Images\five-nights-at-freddys-2.jpg
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\Resources\Images\hamnet.jpeg
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\Resources\Images\kill-bill-the-whole-bloody-affair.jpg
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\Resources\Images\la-grazia.jpg
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\Resources\Images\marty-supreme-movie.jpg
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\Resources\Images\merrily-we-roll-along.jpg
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\Resources\Images\now-you-see-me-now-you-dont.jpg
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\Resources\Images\nuremberg.jpg
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\Resources\Images\pacific-rim.jpg
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\Resources\Images\predator-badlands.jpg
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\Resources\Images\spider-man-across-the-spider-verse-part-one.jpg
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\Resources\Images\Star Wars A New Hope-1977.jpg
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\Resources\Images\the-avengers.jpg
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\Resources\Images\the-dark-knight-2008.jpg
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\Resources\Images\the-housemaid-2025.jpg
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\Resources\Images\the-running-man.jpeg
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\Resources\Images\the-spongebob-movie-search-for-squarepants.jpeg
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\Resources\Images\wicked-for-good.jpg
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\Resources\Images\wicked.jpg
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\Resources\Images\zootopia-2.png
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\LatoFont\Lato-Black.ttf
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\LatoFont\Lato-BlackItalic.ttf
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\LatoFont\Lato-Bold.ttf
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\LatoFont\Lato-BoldItalic.ttf
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\LatoFont\Lato-ExtraBold.ttf
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\LatoFont\Lato-ExtraBoldItalic.ttf
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\LatoFont\Lato-ExtraLight.ttf
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\LatoFont\Lato-ExtraLightItalic.ttf
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\LatoFont\Lato-Italic.ttf
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\LatoFont\Lato-Light.ttf
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\LatoFont\Lato-LightItalic.ttf
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\LatoFont\Lato-Medium.ttf
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\LatoFont\Lato-MediumItalic.ttf
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\LatoFont\Lato-Regular.ttf
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\LatoFont\Lato-SemiBold.ttf
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\LatoFont\Lato-SemiBoldItalic.ttf
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\LatoFont\Lato-Thin.ttf
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\LatoFont\Lato-ThinItalic.ttf
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\LatoFont\OFL.txt
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\CinemaSystem.Desktop.exe
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\CinemaSystem.Desktop.deps.json
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\CinemaSystem.Desktop.runtimeconfig.json
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\CinemaSystem.Desktop.dll
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\CinemaSystem.Desktop.pdb
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\CommunityToolkit.Mvvm.dll
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\Humanizer.dll
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\Microsoft.Build.dll
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\Microsoft.Build.Framework.dll
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\Microsoft.Build.Tasks.Core.dll
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\Microsoft.Build.Utilities.Core.dll
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\Microsoft.CodeAnalysis.ExternalAccess.RazorCompiler.dll
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\Microsoft.Data.Sqlite.dll
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\Microsoft.NET.StringTools.dll
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\Mono.TextTemplating.dll
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\Newtonsoft.Json.dll
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\Npgsql.dll
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\QRCoder.dll
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\QuestPDF.dll
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\SQLitePCLRaw.batteries_v2.dll
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\SQLitePCLRaw.core.dll
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\System.Composition.AttributedModel.dll
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\System.Composition.Convention.dll
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\System.Composition.Hosting.dll
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\System.Composition.Runtime.dll
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\System.Composition.TypedParts.dll
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\System.Reflection.MetadataLoadContext.dll
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\runtimes\linux-arm64\native\libQuestPdfSkia.so
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\runtimes\linux-arm64\native\libqpdf.so
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\runtimes\linux-musl-x64\native\libQuestPdfSkia.so
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\runtimes\linux-musl-x64\native\libqpdf.so
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\runtimes\linux-x64\native\libQuestPdfSkia.so
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\runtimes\linux-x64\native\libqpdf.so
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\runtimes\osx-arm64\native\libQuestPdfSkia.dylib
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\runtimes\osx-arm64\native\libqpdf.dylib
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\runtimes\osx-x64\native\libQuestPdfSkia.dylib
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\runtimes\osx-x64\native\libqpdf.dylib
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\runtimes\win-x64\native\QuestPdfSkia.dll
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\runtimes\win-x64\native\libgcc_s_seh-1.dll
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\runtimes\win-x64\native\libstdc++-6.dll
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\runtimes\win-x64\native\libwinpthread-1.dll
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\runtimes\win-x64\native\qpdf.dll
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\runtimes\win-x64\native\zlib1.dll
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\runtimes\win-x86\native\QuestPdfSkia.dll
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\runtimes\win-x86\native\libgcc_s_dw2-1.dll
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\runtimes\win-x86\native\libstdc++-6.dll
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\runtimes\win-x86\native\libwinpthread-1.dll
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\runtimes\win-x86\native\qpdf.dll
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\runtimes\win-x86\native\zlib1.dll
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\runtimes\browser-wasm\nativeassets\net9.0\e_sqlite3.a
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\runtimes\linux-musl-riscv64\native\libe_sqlite3.so
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\runtimes\linux-riscv64\native\libe_sqlite3.so
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\bin\Debug\net10.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\obj\Debug\net10.0-windows\CinemaSystem.Desktop.csproj.AssemblyReference.cache
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\obj\Debug\net10.0-windows\Views\BookingConfirmationWindow.baml
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\obj\Debug\net10.0-windows\Views\Controls\Carousel3DView.baml
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\obj\Debug\net10.0-windows\Views\CustomMessageBox.baml
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\obj\Debug\net10.0-windows\Views\TicketManagementView.baml
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\obj\Debug\net10.0-windows\MainWindow.g.cs
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\obj\Debug\net10.0-windows\Views\BookingConfirmationWindow.g.cs
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\obj\Debug\net10.0-windows\Views\Controls\Carousel3DView.g.cs
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\obj\Debug\net10.0-windows\Views\CustomerWindow.g.cs
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\obj\Debug\net10.0-windows\Views\CustomMessageBox.g.cs
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\obj\Debug\net10.0-windows\Views\DashboardView.g.cs
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\obj\Debug\net10.0-windows\Views\LoginView.g.cs
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\obj\Debug\net10.0-windows\Views\MovieDetailView.g.cs
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\obj\Debug\net10.0-windows\Views\MoviesView.g.cs
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\obj\Debug\net10.0-windows\Views\ReportsView.g.cs
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\obj\Debug\net10.0-windows\Views\ScheduleView.g.cs
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\obj\Debug\net10.0-windows\Views\SeatSelectionView.g.cs
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\obj\Debug\net10.0-windows\Views\TicketManagementView.g.cs
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\obj\Debug\net10.0-windows\Views\TicketSummaryView.g.cs
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\obj\Debug\net10.0-windows\App.g.cs
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\obj\Debug\net10.0-windows\CinemaSystem.Desktop_Content.g.cs
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\obj\Debug\net10.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\obj\Debug\net10.0-windows\CinemaSystem.Desktop_MarkupCompile.cache
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\obj\Debug\net10.0-windows\CinemaSystem.Desktop_MarkupCompile.lref
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\obj\Debug\net10.0-windows\App.baml
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\obj\Debug\net10.0-windows\MainWindow.baml
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\obj\Debug\net10.0-windows\Views\CustomerWindow.baml
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\obj\Debug\net10.0-windows\Views\DashboardView.baml
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\obj\Debug\net10.0-windows\Views\LoginView.baml
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\obj\Debug\net10.0-windows\Views\MovieDetailView.baml
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\obj\Debug\net10.0-windows\Views\MoviesView.baml
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\obj\Debug\net10.0-windows\Views\ReportsView.baml
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\obj\Debug\net10.0-windows\Views\ScheduleView.baml
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\obj\Debug\net10.0-windows\Views\SeatSelectionView.baml
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\obj\Debug\net10.0-windows\Views\TicketSummaryView.baml
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\obj\Debug\net10.0-windows\CinemaSystem.Desktop.g.resources
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\obj\Debug\net10.0-windows\CinemaSystem.Desktop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\obj\Debug\net10.0-windows\CinemaSystem.Desktop.AssemblyInfoInputs.cache
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\obj\Debug\net10.0-windows\CinemaSystem.Desktop.AssemblyInfo.cs
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\obj\Debug\net10.0-windows\CinemaSystem.Desktop.csproj.CoreCompileInputs.cache
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\obj\Debug\net10.0-windows\CinemaSystem.Desktop.sourcelink.json
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\obj\Debug\net10.0-windows\CinemaSy.A4FBFB86.Up2Date
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\obj\Debug\net10.0-windows\CinemaSystem.Desktop.dll
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\obj\Debug\net10.0-windows\refint\CinemaSystem.Desktop.dll
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\obj\Debug\net10.0-windows\CinemaSystem.Desktop.pdb
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\obj\Debug\net10.0-windows\CinemaSystem.Desktop.genruntimeconfig.cache
+C:\Users\s.tkaczyk\Documents\PROJEKTY_GIT\CAv30\CA\obj\Debug\net10.0-windows\ref\CinemaSystem.Desktop.dll

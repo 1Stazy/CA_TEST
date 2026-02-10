@@ -1,0 +1,36 @@
+﻿<UserControl x:Class="CinemaSystem.Desktop.Views.Controls.Carousel3DView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             d:DesignHeight="400" d:DesignWidth="800">
+
+    <Viewport3D x:Name="MainViewport" ClipToBounds="True" MouseLeftButtonDown="OnViewportMouseDown">
+        
+        <Viewport3D.Camera>
+            <PerspectiveCamera x:Name="Camera" 
+                               Position="0, 0, 12" 
+                               LookDirection="0, 0, -1" 
+                               UpDirection="0, 1, 0" 
+                               FieldOfView="45"/>
+        </Viewport3D.Camera>
+
+        <Viewport3D.Children>
+            <ModelVisual3D>
+                <ModelVisual3D.Content>
+                    <AmbientLight Color="White"/> 
+                </ModelVisual3D.Content>
+            </ModelVisual3D>
+
+            <ModelVisual3D>
+                <ModelVisual3D.Content>
+                    <DirectionalLight Color="#808080" Direction="0,0,-1"/>
+                </ModelVisual3D.Content>
+            </ModelVisual3D>
+            
+            <ModelVisual3D x:Name="WorldModels"/>
+            
+        </Viewport3D.Children>
+    </Viewport3D>
+</UserControl>
