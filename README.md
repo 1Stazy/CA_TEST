@@ -43,7 +43,7 @@
 
 ### 1. Klonowanie
 ```bash
-git clone https://github.com/1Stazy/CA.git
+git clone https://github.com/1Stazy/CA_TEST.git
 cd CA
 ```
 
