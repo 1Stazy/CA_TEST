@@ -141,8 +141,6 @@ CA/
 
 ## Licencja
 
-Projekt jest dostępny na licencji **MIT**.
-
 ---
 
 **Ostatnia aktualizacja:** 7 lutego 2026  
