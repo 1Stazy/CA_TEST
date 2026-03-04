@@ -1,31 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\s.tkaczyk\\Documents\\PROJEKTY_GIT\\CA_TEST_PROD\\CA\\CinemaSystem.Desktop.csproj": {}
+    "C:\\Users\\Szymon Tkaczyk\\CA\\CA_TEST\\CinemaSystem.Desktop.csproj": {}
   },
   "projects": {
-    "C:\\Users\\s.tkaczyk\\Documents\\PROJEKTY_GIT\\CA_TEST_PROD\\CA\\CinemaSystem.Desktop.csproj": {
+    "C:\\Users\\Szymon Tkaczyk\\CA\\CA_TEST\\CinemaSystem.Desktop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\s.tkaczyk\\Documents\\PROJEKTY_GIT\\CA_TEST_PROD\\CA\\CinemaSystem.Desktop.csproj",
+        "projectUniqueName": "C:\\Users\\Szymon Tkaczyk\\CA\\CA_TEST\\CinemaSystem.Desktop.csproj",
         "projectName": "CinemaSystem.Desktop",
-        "projectPath": "C:\\Users\\s.tkaczyk\\Documents\\PROJEKTY_GIT\\CA_TEST_PROD\\CA\\CinemaSystem.Desktop.csproj",
-        "packagesPath": "C:\\Users\\s.tkaczyk\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\s.tkaczyk\\Documents\\PROJEKTY_GIT\\CA_TEST_PROD\\CA\\obj\\",
+        "projectPath": "C:\\Users\\Szymon Tkaczyk\\CA\\CA_TEST\\CinemaSystem.Desktop.csproj",
+        "packagesPath": "C:\\Users\\Szymon Tkaczyk\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Szymon Tkaczyk\\CA\\CA_TEST\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\s.tkaczyk\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Szymon Tkaczyk\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0-windows"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -96,7 +90,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.101/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.100/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",
